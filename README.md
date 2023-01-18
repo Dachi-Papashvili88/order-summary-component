@@ -15,18 +15,8 @@ My challenge was to build out this order summary card component and get it looki
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-
-## Overview
-
-### The challenge
 
 
 ### Screenshot
@@ -39,19 +29,12 @@ My challenge was to build out this order summary card component and get it looki
 - [Solution URL](https://github.com/Dachi-Papashvili88/order-summary-component)
 - [Live Site URL](https://dachi-papashvili88.github.io/order-summary-component/)
 
-## My process
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-
-
-### What I learned
-
-
-### Useful resources
 
 
 
