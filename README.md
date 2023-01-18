@@ -31,7 +31,7 @@ My challenge was to build out this order summary card component and get it looki
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/screenshot.jpg)
 
 
 ### Links
