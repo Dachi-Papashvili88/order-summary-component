@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation&family=Outfit:wght@200;600&family=Red+Hat+Display:wght@900&family=Roboto:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation&family=Outfit:wght@200;600&family=Red+Hat+Display:ital,wght@0,500;0,900;1,500&family=Roboto:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@600&display=swap');
+
+
+
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+    font-family: 'Red Hat Display', sans-serif;
+    
+
+}
+
+body{
+    background-image: url("images/pattern-background-desktop.svg");
+    background-repeat: no-repeat;
+    background-color:hsl(225, 100%, 94%);
+    overflow: auto;
+    
+}
+
+.card{
+    background-color:#FFFFFF;
+    width: 400px;
+    box-shadow: 0px 40px 40px -20px rgba(13, 48, 189, 0.151826);
+    border-radius: 20px;
+    margin: 10px auto;
+
+}
+
+.card-image > img{
+    background-color: #382AE1;
+    border-radius:20px 20px 0 0;
+    width:400px; 
+   
+
+}
+
+.heading > h1{
+    font-weight: 900;
+    font-size: 28px;
+    line-height: 37px;
+    text-align: center;
+    color:#1F2E55;
+    margin-top: 29px;
+}
+
+.heading > p{
+    font-weight: 500;
+    font-size:16px;
+    line-height: 26px;
+    text-align: center;
+    color:#717FA6;
+    margin: 17px 48px 0 48px;
+}
+
+.price{
+    display: flex;
+    margin-top:45px;
+
+}
+
+.music > img{
+    display:flex;
+    margin-left:60px;
+    margin-right:20px;
+    background-color: #DFE6FB;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+}
+
+h3{
+    color:#1F2E55;
+    font-weight: 900;
+    font-size:16px;
+    line-height:21px;
+    margin-right:68px;
+
+}
+
+.link{
+    margin-top:10px;
+    color:#382AE1;
+    font-size:14px;
+    font-weight: 600;
+    line-height: 19px;
+    text-decoration: underline;
+}
+
+.click:hover{
+    text-decoration: none;
+    color:hsl(245, 69%, 66%);
+
+}
+
+button{
+    display: block;
+    background-color: #382AE1;
+    color:white;
+    font-weight: 900;
+    text-align: center;
+    line-height: 20px;
+    box-shadow: 0px 20px 20px rgba(56, 42, 225, 0.190291);
+    width: 350px;
+    height: 50px;
+    margin: 57px  auto;
+    margin-bottom: 0;
+    border-radius: 11px;
+    border:none;
+}
+
+
+button:hover{
+    cursor: pointer;
+    background-color:hsl(245, 69%, 66%);
+}
+
+.cancallation{
+    font-weight: 900;
+    font-size:16px;
+    line-height: 20px;
+    text-align: center;
+    color:#717FA6;
+    margin-top:32px;
+    padding-bottom: 48px;
+
+}
+
+.cancallation:hover{
+    cursor: pointer;
+    color:black;
+}
+
